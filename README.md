@@ -3,6 +3,7 @@
 Integrantes
 
 Nombre: Sebastian Andres Torres Saez
+
 Seccion: 007D
 Correo: seba.torress@duocuc.cl
 
